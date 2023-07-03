@@ -1,0 +1,23 @@
+.container-nav{
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    background-color: #EDEDED;
+    border-radius: 0rem 0rem 2rem 2rem;
+    margin-top: 1rem;
+}
+.container-lista{
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.item-lista{
+    font-size: 2rem;
+    font-family: Sevillana;
+}
+.item-lista:hover{
+    transform: scale(1.1);
+}

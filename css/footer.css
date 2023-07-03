@@ -1,0 +1,12 @@
+.container-icones{
+    display: flex;
+    gap: 2rem;
+    margin-top: 6rem;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+.container-itens-icones{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+}
